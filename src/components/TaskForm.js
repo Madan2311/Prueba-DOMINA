@@ -45,7 +45,7 @@ const TaskForm = ({ }) => {
             </Button>
             
             <Button variant="contained" color="primary" style={{ marginTop: '5px' }} fullWidth onClick={() => navigate('/tasks')}>
-                {'Atrás'}
+                {'Atrás'} 
             </Button>
         </Container>
     );
